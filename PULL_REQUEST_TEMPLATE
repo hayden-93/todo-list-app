@@ -1,0 +1,54 @@
+## JIRA
+
+Ticket URL: _Link here_
+
+_Description of issue/feature_
+
+## Design _(Optional - Delete this section if it is not required)_
+
+Design URL: _Link to Design document in Figma_
+
+## UI _(Delete this section if it is not required)_
+
+_Add description of UI changes_
+
+### Screenshots _(Delete this section if it is not required)_
+
+For visual changes, add screenshots for each breakpoint (mobile/tablet/desktop) to give the reviewer a better idea of what changes this feature has made _*(Delete this line before submitting your PR)*_
+
+### Mobile _(Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+### Tablet _(Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+### Desktop _(Optional - Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+## Work done
+
+- _Add a list of features/changes you have made in this pull request_
+
+## Acceptance criteria
+
+- _Add your acceptance criteria list here_
+
+## Checklist
+
+- [ ] JIRA: Ticket has been moved to "PULL REQUEST"
+- [ ] GitHub: PR has been added to the upcoming release changelog
+- [ ] E2E tests passing `npm run test:e2e` _(Optional - Can remove)_
+- [ ] Approval from designer _(Optional - Can remove)_
+- [ ] Storybook is up to date _(Optional - Can remove)_
+
+## (Reviewer) Review checklist
+
+- [ ] Code check (Meet coding standards?)
+- [ ] Approved PR contains the correct label(s)
+  - [ ] JIRA: Ticket has been moved to "READY FOR MERGE"?
+- [ ] Automation tests checks passed (Unit/Integration/E2E) _(Optional - Can remove)_
+- [ ] Contains necessary tests _(Optional - Can remove)_
+- [ ] Storybook examples _(Optional - Can remove)_
