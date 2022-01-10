@@ -1,0 +1,33 @@
+_Description of issue/feature_
+
+## Design _(Optional - Delete this section if it is not required)_
+
+Design URL: _Link to Design document in Figma_
+
+## UI _(Delete this section if it is not required)_
+
+_Add description of UI changes_
+
+### Screenshots _(Delete this section if it is not required)_
+
+For visual changes, add screenshots for each breakpoint (mobile/tablet/desktop) to give the reviewer a better idea of what changes this feature has made _*(Delete this line before submitting your PR)*_
+
+### Mobile _(Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+### Tablet _(Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+### Desktop _(Optional - Delete this section if it is not required)_
+
+_Add screenshot(s) here_
+
+## Work done
+
+- _Add a list of features/changes you have made in this pull request_
+
+## Acceptance criteria
+
+- _Add your acceptance criteria list here_
