@@ -113,6 +113,10 @@ module.exports = {
       small: "1rem",
       tiny: "0.75rem",
     },
+    screens: {
+      tablet: "768px",
+      desktop: "1200px",
+    },
   },
   plugins: [
     require("@tailwindcss/typography"),
