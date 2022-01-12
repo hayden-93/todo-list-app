@@ -1,5 +1,7 @@
 import { Moon } from "react-feather";
 
+import { Button } from "./components";
+
 import "./index.css";
 
 const Layout = (props) => {
@@ -16,7 +18,11 @@ const Layout = (props) => {
 };
 
 function App() {
-  return <Layout></Layout>;
+  return (
+    <Layout>
+      <Button>Create a list</Button>
+    </Layout>
+  );
 }
 
 export default App;
