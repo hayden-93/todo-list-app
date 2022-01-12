@@ -81,17 +81,17 @@ module.exports = {
       ],
     },
     fontSize: {
-      display: "3.25rem",
-      h1: "2.75rem",
-      h2: "2.25rem",
-      h3: "2rem",
-      h4: "1.75rem",
-      h5: "1.5rem",
-      h6: "1.25rem",
-      "base-lg": "1.125rem",
-      base: "1rem",
-      small: "0.875rem",
-      tiny: "0.75rem",
+      display: "3.25rem", // 52px
+      h1: "2.75rem", // 44px
+      h2: "2.25rem", // 36px
+      h3: "2rem", // 32px
+      h4: "1.75rem", // 28px
+      h5: "1.5rem", // 24px
+      h6: "1.25rem", // 20px
+      "base-lg": "1.125rem", // 18px
+      base: "1rem", // 16px
+      small: "0.875rem", // 14px
+      tiny: "0.75rem", // 12px
     },
     fontWeight: {
       light: 300,
@@ -101,17 +101,17 @@ module.exports = {
       bold: 700,
     },
     lineHeight: {
-      display: "3.75rem",
-      h1: "3.25rem",
-      h2: "2.75rem",
-      h3: "2.25rem",
-      h4: "1.75rem",
-      h5: "1.5rem",
-      h6: "1.5rem",
-      "base-lg": "1.5rem",
-      base: "1.5rem",
-      small: "1rem",
-      tiny: "0.75rem",
+      display: "3.75rem", // 60px
+      h1: "3.25rem", // 52px
+      h2: "2.75rem", // 44px
+      h3: "2.25rem", // 36px
+      h4: "1.75rem", // 28px
+      h5: "1.5rem", // 24px
+      h6: "1.5rem", // 24px
+      "base-lg": "1.5rem", // 24px
+      base: "1.5rem", // 24px
+      small: "1rem", // 16px
+      tiny: "0.75rem", // 12px
     },
     screens: {
       tablet: "768px",
